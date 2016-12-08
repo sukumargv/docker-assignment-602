@@ -23,4 +23,4 @@ ADD assignment_2.vt assignment_2.vt
 
 ADD run_workflow.py run_workflow.py
 
-ENTRYPOINT ["python", "run_workflow.py", "assignment_2.vt", "nigeria-avg"]
+ENTRYPOINT ["python", "run_workflow.py", "assignment_2.vt", "alias"]
